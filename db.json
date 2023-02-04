@@ -1,0 +1,48 @@
+{
+   "ecommerce":{
+      "name":"e-commerce",
+      "logo":"https://upview-images.s3.ap-south-1.amazonaws.com/ecommerce-practical/logo.png",
+      "currency":{
+         "type":"USD",
+         "abb":"$"
+      },
+      "product":{
+         "id":"001",
+         "name":"Airpods - Max",
+         "description":"A perfect balance of exhilarating high-fidelity audio and the effordless magic of Airpods",
+         "rating":4,
+         "ratedBy":259,
+         "price":549,
+         "installment":{
+            "amount":99,
+            "period":"month",
+            "description":"Suggested payments with 6 months special financing"
+         },
+         "colors":[
+            "B91C1C",
+            "1D4ED8",
+            "166534",
+            "FB923C"
+         ],
+         "stock":12,
+         "images":[
+            {
+               "image":"https://upview-images.s3.ap-south-1.amazonaws.com/ecommerce-practical/p1.png",
+               "color":"B91C1C"
+            },
+            {
+               "image":"https://upview-images.s3.ap-south-1.amazonaws.com/ecommerce-practical/p2.png",
+               "color":"1D4ED8"
+            },
+            {
+               "image":"https://upview-images.s3.ap-south-1.amazonaws.com/ecommerce-practical/p3.png",
+               "color":"166534"
+            },
+            {
+               "image":"https://upview-images.s3.ap-south-1.amazonaws.com/ecommerce-practical/p4.png",
+               "color":"FB923C"
+            }
+         ]
+      }
+   }
+}
